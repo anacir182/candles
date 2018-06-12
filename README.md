@@ -7,8 +7,9 @@
 
 ## Summary
 
+1. ### (Overview)[overview.md]
 1. ### [Team](https://docs.google.com/spreadsheets/d/1n2EZuteIvkhLqce5QCR58zg2A0p5ogqutplFV4DT-4A/edit#gid=0) 
-1. ### Tools and Technologies
-1. ### Branching Strategy
-1. ### Resources
-1. ### Training
+1. ### (Tools and Technologies)[tools.md]
+1. ### (Branching Strategy)[branching.md]
+1. ### (Resources)[resources.md]
+1. ### (Training)[training.md]
