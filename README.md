@@ -2,25 +2,28 @@
 
 ## Summary
 
-1. ### [Members](https://docs.google.com/spreadsheets/d/1n2EZuteIvkhLqce5QCR58zg2A0p5ogqutplFV4DT-4A/edit#gid=0)
-   1. Matsuo san
-   1. Inoue san 
-   1. Obayashi san
-   1. John - Cebu Team Manager
+1. ### [Members](https://docs.google.com/spreadsheets/d/1tcnrqCpLnjwJ2jcHm_C1zNGqv3-qV0NMGV7UIyLOW48/edit#gid=1879399337)
+   1. Yuki Matsuo
+   1. Shintaro Nitta
+   1. Tadayuki Inoue
+   1. Kaoru Obayashi
+   1. John Paul Ricana
+   1. Monica Jimenez
+   1. Rodel Hiolen
 
 1. ### Tools and Technologies
    1. PHP Framework - Laravel 5.1 - 5.5
    1. IDE - PHPStorm
    1. Docker
    1. SequelPro
-   1. Jquery
+   1. Jquery, Bootstrap, Angular 2
    1. GitHub
    1. JIRA PM Tool
-   1. Agile and Scrum
+   1. Agile Development
    1. Testing
       1. Unit Testing
       1. E2E Testing
-   1. Slack
+   1. Slack - messaging
 
 1. ### Cebu Goal Overview
    1. Create Commercial sites from Japan 
@@ -45,11 +48,9 @@
    
 1. ### Training
    1. ### Blog Training
-   1. ### Consulting Prepare Training
-      1.  How to setup the development environment
-          github Docker link
-      1.  Creating Programming Coding Style
-          FS/projects/OSC/issues/OSC-8
+   1. ### Consulting Framework Training
+      1.  Consulting Docker
+      1.  Consulting Prepare Framework
    1. ### Automation Tool Training  
      
      
