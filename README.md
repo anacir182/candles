@@ -7,7 +7,7 @@
 
 ## Summary
 
-1. ### Team
+1. ### [Team](https://docs.google.com/spreadsheets/d/1n2EZuteIvkhLqce5QCR58zg2A0p5ogqutplFV4DT-4A/edit#gid=0) 
 1. ### Tools and Technologies
 1. ### Branching Strategy
 1. ### Resources
